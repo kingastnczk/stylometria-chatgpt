@@ -1,2 +1,6 @@
 # stylometria-chatgpt
-This is the repo containing data from my BA thesis about the differences between human-written and ChatGPT-generated film reviews. Repo created in 2026, thesis written in 2023-2024
+
+To repozytorium zawierające pliki z mojej pracy licencjackiej pt. _Językowe cechy tekstów wygenerowanych przez sztuczną inteligencję. Analiza stylometryczna na podstawie korpusu recenzji filmowych_. Repozytorium zostało utworzone z myślą o publikacji pracy.
+
+
+
